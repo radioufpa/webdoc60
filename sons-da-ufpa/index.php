@@ -125,7 +125,7 @@ include '../_includes/page_top.php'
 
 </main>
 
-<?php include '../_includes/page_bottom.php' ?>
+<?php include '../_includes/footer-5.php' ?>
 
 <audio id="player" src="#" type="audio/mp3" autoplay></audio>
 

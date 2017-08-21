@@ -183,8 +183,8 @@ include '../_includes/page_top.php'
 
           <div class="horinzontal">
             <ol>
-                <li>
-                <a href="#"><div>
+                <li class="horinzontal-featured">
+                <a href="https://www.youtube.com/watch?v=jQ3zomVLm7k" data-fancybox="entrevista" data-caption="Entrevista com o Reitor da Universidade Federal do Pará - Emmanuel Zagury Tourinho"><div>
                   <img src="../_media/images/pessoas/ufpa-reitor-13-emmanuel-tourinho.jpg">
                   <h4>Emmanuel Tourinho</h4>
                   <p>2016-2020</p>
@@ -343,8 +343,8 @@ include '../_includes/page_top.php'
 
             <div class="horinzontal">
               <ol>
-                <li>
-                <a href="#"><div>
+                <li class="horinzontal-featured">
+                <a href="https://www.youtube.com/watch?v=0tVJjal-RJs" data-fancybox="entrevista" data-caption="Entrevista - Violeta Refkalefsky Loureiro, Professora Emérita da UFPA"><div>
                   <img src="../_media/images/pessoas/ufpa-professor-emerito-violeta-loureiro.jpg">
                   <h4>Violeta Loureiro</h4>
                   <p>2015</p>
@@ -405,14 +405,14 @@ include '../_includes/page_top.php'
         </div>
 
 
-        <div class="left">
+        <!-- <div class="left">
           
           <div class="box-text">
             <h4 class="blue-text">3. Parabéns!</h4>
             <p>De 1960 a 2017, a Universidade Federal do Pará, outorgou 44 títtulos a professores da instituição. O mais recente foi concedido à professora Violeta Loureito, em 2015. Confira a entrevista aqui.</p>
           </div>
 
-      </div>
+        </div> -->
 
 
     <div>
@@ -445,43 +445,24 @@ include '../_includes/page_top.php'
 
             <div class="horinzontal">
               <ol>
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-waldir-bouhid.jpg">
-                  <h4>Waldir Bouhid</h4>
-                  <p>Político - 1960</p>
+                <li class="horinzontal-featured">
+                <a href="https://www.youtube.com/watch?v=9WLRgJF5498" data-fancybox="entrevista" data-caption="Entrevista - Dom Luis Azcona, Bispo Emérito do Marajó"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-dom-luiz-azcona.jpg">
+                  <h4>Dom Luiz Azcona</h4>
+                  <p>Bispo - 2017</p>
                 </div></a>
                 </li>
 
                 <li>
                 <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-paulo-freire.jpg">
-                  <h4>Paulo Freire</h4>
-                  <p>Pedagogo - 1960</p>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-vicente-salles.jpg">
+                  <h4>Vicente Salles</h4>
+                  <p>Historiador - 2011</p>
                 </div></a>
                 </li>
               </ol>
             </div>
 
-            <div class="horinzontal">
-              <ol>
-                <li>
-                <a href="#"><div>
-                <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-guilherme-la-penha.jpg">
-                  <h4>Guilherme La Penha</h4>
-                  <p>Cientista - 1979</p>
-                </div></a>
-                </li>
-
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-maria-deane.jpg">
-                  <h4>Maria P. Deane</h4>
-                  <p>Cientista - 1986</p>
-                </div></a>
-                </li>
-              </ol>
-            </div>
 
             <div class="horinzontal">
               <ol>
@@ -495,13 +476,74 @@ include '../_includes/page_top.php'
 
                 <li>
                 <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-dom-luiz-azcona.jpg">
-                  <h4>Dom Luiz Azcona</h4>
-                  <p>Bispo - ???</p>
+                <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-joao-clemente-baena-soares.jpg">
+                  <h4>João Clemente Baena Soares</h4>
+                  <p>Diplomata - 1994</p>
                 </div></a>
                 </li>
               </ol>
             </div>
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-dom-helder-camara.jpg">
+                  <h4>Dom Helder Câmara</h4>
+                  <p>Bispo - 1990</p>
+                 </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-carlos-alberto-pereira-dias.jpg">
+                  <h4>Carlos Alberto Dias</h4>
+                  <p>Geofísico - 1985</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-maria-deane.jpg">
+                  <h4>Maria José P. Deane</h4>
+                  <p>Cientista - 1986</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-guilherme-la-penha.jpg">
+                  <h4>Guilherme La Penha</h4>
+                  <p>Cientista - 1979</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-paulo-freire.jpg">
+                  <h4>Paulo Freire</h4>
+                  <p>Pedagogo - 1960</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-waldir-bouhid.jpg">
+                  <h4>Waldir Bouhid</h4>
+                  <p>Político - 1960</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
 
           </div>
         </div>
@@ -511,9 +553,8 @@ include '../_includes/page_top.php'
   </section>
 
 
-  <section class="auto-screen">
 
-    <div class="screen-container">
+  <section class="timeline">
 
       <div class="left">
         
@@ -524,14 +565,79 @@ include '../_includes/page_top.php'
             <p>Regulamento ou conjunto de regras de organização e funcionamento de uma coletividade, instituição, órgão, estabelecimento, empresa pública ou privada.</p>
           </div>
 
-          <div class="box-text">
-            <h4 class="blue-text">2. Quem concede?</h4>
-            <p>A UFPA outorga o título por meio do Conselho Superior de Ensino, Pesquisa e Extensão. A consessão do título somente poderá ser proposta por iniciativa do reitor ou de um Conselho de Campus ou Congregação de Unidade Acadêmica.</p>
-          </div>
-
       </div>
 
-    </div>
+      <div class="tile-container"></div>
+
+      <ul>
+            <li>
+
+                <figure class="left-photo">
+                    <a data-fancybox="estatuto" data-caption="Antiga Faculdade Ciências Economicas, Contabeis e Atuariais, uma das que deu origem à UFPA. Foto: Acervo Museu da UFPA." href="../_media/images/memorias/antiga-faculdade-ciencias-ufpa.jpg"><img src="../_media/images/memorias/antiga-faculdade-ciencias-ufpa.jpg"></a>
+                </figure>
+
+              <div>
+
+                <span>
+                <h3>1957 - Primeiro Estatuto da UFPA</h3>
+                </span>
+
+                <p>O primeiro Estatuto da Universidade Federal do Pará entrou em vigor três meses após a criação da universidade. Aprovado em 12 de outubro de 1957, através do Decreto nº 4.427, este Estatuto foi responsável por definir a orientação da política educacional da instituição. De acordo com o Estatuto, a universidade tinha a finalidade de manter e desenvolver o ensino em suas unidades, promover a pesquisa científica, formar pessoas habilitadas para o exercício das profissões, colaborar para o engrandecimento da Nação, estimular os estudos relativos à formação moral e histórica da civilização e desenvolver a personalidade dos alunos.</p>
+
+              </div>
+            </li>
+
+            <li>
+              <div>
+
+                <h3>1963 - Primeira Reforma Estatutária</h3>
+
+                <p>A primeira reforma estatutária da Universidade Federal do Pará aconteceu por meio da lei nº 4.283, que instituiu o Ato Reestruturador, de 18 de novembro de 1963. Nesta reforma, foram integradas à Universidade a Escola de Serviço Social do Pará e a Escola de Química Industrial do Pará.</p>
+
+              </div>
+            </li>
+
+            <li>
+              <div>
+
+                <h3>1970 - Segunda Reforma Estatutária</h3>
+
+                <p>A reforma estatutária aprovada por meio do Decreto nº 66.539, em 7 de maio de 1970, trouxe mudanças formais e redacionais a ele. Os itens relativos aos fins da Universidade Federal do Pará foram reduzidos a três. Apesar das mudanças apresentadas, a essência do estatuto continuava a mesma, em virtude da própria natureza e função das universidades.</p>
+
+              </div>
+            </li>
+
+            <li>
+                
+                <figure class="right-photo">
+                   <a data-fancybox="estatuto" data-caption="Criado na década de 70, o Núcleo de Altos Estudos Amazônicos é uma referência na pesquisa sobre desenvolvimento socioeconômico da Pan-Amazônia. Foto: Acervo Museu da UFPA." href="../_media/images/memorias/naea-ufpa-1970.jpg"><img src="../_media/images/memorias/naea-ufpa-1970.jpg"></a>
+                </figure>
+
+              <div>
+                
+                <h3>1978 - Segundo Estatuto</h3>
+
+                <p>Segundo Estatuto: O segundo Estatuto da Universidade Federal do Pará foi elaborado no contexto da reforma universitária do final dos anos 60. Por meio da portaria nº 452, de 30 de maio de 1978, o Ministro de Estado da Educação e Cultura, em 18 de julho de 1977, aprovou a nova redação do Estatuto da Universidade, que passou a gozar de autonomia administrativa, financeira, didático-científica e disciplinar. A Universidade também pode celebrar acordos e convênios com entidades nacionais e estrangeiras internacionais, desde que não afetassem a autonomia da universidade.</p>
+
+              </div>
+            </li>
+
+            <li>
+
+                <figure class="left-photo">
+                   <a data-fancybox="estatuto" data-caption="Campus de Tucuruí da UFPA. Foto: Alexandre Moraes." href="../_media/images/memorias/campus-tucurui-ufpa.jpg"><img src="../_media/images/memorias/campus-tucurui-ufpa.jpg"></a>
+                </figure>
+
+              <div>
+                
+                <h3>2006 - Novo Estatuto da UFPA</h3>
+
+                <p>Um novo Estatuto da UFPA foi aprovado por meio da Resolução nº 614, de 28 de junho de 2006, em cumprimento à decisão do Egrégio Conselho Universitário, em reunião realizada naquele mesmo dia. Ele substituía o antigo Estatuto, datado de 1978 e trouxe como mudança mais significativa a inclusão definitiva dos campi do interior do estado do Pará na estrutura formal da Instituição. O Estatuto também oficializou a criação de unidades como a Pró Reitoria de Desenvolvimento e Gestão de Pessoal (PROGEP) e setor de Educação a Distância. O que se buscava era garantir a melhor qualidade dos cursos de graduação, dar pertinência à pesquisa científica e relevância social à extensão.</p>
+
+              </div>
+            </li>
+
+        </ul>
 
   </section>
 

@@ -54,6 +54,7 @@ include '../_includes/page_top.php'
                 <ul>
                     <li>Éder Monteiro</li>
                     <li>Simone Barreto</li>
+                    <li>Arquivo Facom</li>
                 </ul>
 
 
@@ -113,6 +114,7 @@ include '../_includes/page_top.php'
                 <ul>
                     <li>Universidade Federal do Pará</li>
                     <li>Pró-reitoria de Administração (Proad)</li>
+                    <li>Instituto de Letras e Comunicação (ILC)</li>
                     <li>Fundação de Amparo e Desenvolvimento da Pesquisa (Fadesp)</li>
                 </ul>
 
@@ -124,11 +126,12 @@ include '../_includes/page_top.php'
                     <li>Alexandre Moraes</li>
                     <li>ed.ufpa</li>
                     <li>Profa. Edilza Fontes</li>
-                    <li>Faculdade de Comunicação da UFPA</li>
-                    <li>Instituto de Letras e Comunicação</li>
+                    <li>Márcio Novelino</li>
                     <li>Museu da UFPA</li>
                     <li>Patrick Pardini</li>
                     <li>Prelazia do Marajó</li>
+                    <li>Thaiane Martins</li>
+                    <li>Valéria Cunha</li>
                 </ul>
 
             </article>

@@ -509,9 +509,10 @@ article blockquote {
 .color-blue { background: linear-gradient(85deg,rgba(2, 179, 228, 0.85) 0,rgba(121, 52, 255, 0.85) 75%); }
 .color-red { background: linear-gradient(75deg,rgba(238, 46, 161, 0.85) 0,rgba(238, 46, 46, 0.85) 75%); }
 .color-orange { background: linear-gradient(45deg,rgba(255, 200, 1, 0.85) 0,rgba(238, 46, 46, 0.85) 75%); }
-.color-green { background: linear-gradient(90deg,rgba(32, 200, 208, 0.85) 0,rgba(29, 204, 81, 0.85) 75%); }
+.color-green { background: linear-gradient(90deg,rgba(32, 200, 208, 0.88) 0,rgba(29, 204, 81, 0.88) 75%); }
 .color-purple { background: linear-gradient(75deg,rgba(144, 22, 255, 0.85) 0,rgba(246, 54, 255, 0.85) 75%); }
-.color-yellow { background: linear-gradient(75deg,rgba(255, 118, 0, 0.75) 0,rgba(255, 200, 0, 0.75) 75%); }
+.color-yellow { background: linear-gradient(75deg,rgba(255, 118, 0, 0.85) 0,rgba(255, 200, 0, 0.85) 75%); }
+
 .color-appy { background: linear-gradient(45deg,#5082e5 0,#11d8ec 75%); }
 .color-blue-2 { background: linear-gradient(45deg,#36b4a7 0,rgb(0, 192, 199) 75%); }
 

@@ -108,8 +108,32 @@ h4.blue-text {
 }
 
 .horinzontal img {
-  border-radius: 50%;
+  border-radius: 0;
   border: 8px solid #20c8d0;
+}
+
+.horinzontal-featured img {
+  border-radius: 0;
+    border: 8px solid rgb(29, 204, 81);
+}
+
+.horinzontal-featured div:after {
+  display: block;
+  content: "";
+  position: absolute;
+  height: 48px;
+  width: 48px;
+  bottom: 0;
+  top: 148px;
+  left: -132px;
+  right: 0;
+  margin: 0 auto;
+  background-image: url(../_media/images/ui/play.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 32px;
+  border-radius: 0;
+  background-color: rgb(29, 204, 81);
 }
 
 /*.horinzontal ol li div::before {
