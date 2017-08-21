@@ -195,8 +195,8 @@ footer {
   position: relative;
   display: inline-block;
   float: left;
-  padding: 3rem 4%;
-  width: 92%;
+  padding: 1%;
+  width: 98%;
   height: auto;
   background-color: #fafafa;
   text-align: center;
@@ -219,6 +219,10 @@ footer ul {
   float: none; 
   list-style: none;
   margin: 5px;
+}
+footer h2 {
+  font-size: 3.5rem;
+  padding: 64px 0;
 }
 
 .home-footer {
@@ -506,7 +510,7 @@ article blockquote {
 .color-red { background: linear-gradient(75deg,rgba(238, 46, 161, 0.85) 0,rgba(238, 46, 46, 0.85) 75%); }
 .color-orange { background: linear-gradient(45deg,rgba(255, 200, 1, 0.85) 0,rgba(238, 46, 46, 0.85) 75%); }
 .color-green { background: linear-gradient(90deg,rgba(32, 200, 208, 0.85) 0,rgba(29, 204, 81, 0.85) 75%); }
-.color-purple { background: linear-gradient(45deg,rgba(144, 22, 255, 0.77) 0,rgba(185, 92, 247, 0.8) 75%); }
+.color-purple { background: linear-gradient(75deg,rgba(144, 22, 255, 0.85) 0,rgba(246, 54, 255, 0.85) 75%); }
 .color-yellow { background: linear-gradient(75deg,rgba(255, 118, 0, 0.75) 0,rgba(255, 200, 0, 0.75) 75%); }
 .color-appy { background: linear-gradient(45deg,#5082e5 0,#11d8ec 75%); }
 .color-blue-2 { background: linear-gradient(45deg,#36b4a7 0,rgb(0, 192, 199) 75%); }
@@ -842,7 +846,7 @@ https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif
   padding: 0;
   margin: 0 auto;
   color: #fff;
-  font-size: 2rem;
+  font-size: 2.1rem;
 }
 .track p {
   float: left;
@@ -953,7 +957,6 @@ https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif
 
 .tile-big { max-width: 99%; height: 240px; }
 
-
 .tile-large { max-width: 26%;  height: 300px; }
 .tile-quad { max-width: 32.33%; height: 355px; }
 .tile-mag { max-width: 27.333%;  height: 420px; }
@@ -982,8 +985,8 @@ https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif
 }
 .tile:hover, .tile:focus {
   cursor: pointer;
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 } 
 .tile figure {
   z-index: 0;
@@ -1057,6 +1060,23 @@ filter: gray; */
   font-weight: 400;
 }
 
+
+/* tile - footer */
+
+.tile-footer {
+  margin: 1%;
+  border-radius: 0;
+  width: 48%;
+  height: 280px;
+}
+.tile-footer h3 {
+  font-size: 3rem;
+}
+.tile-footer:hover, .tile-footer:focus {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+} 
 
 /* sons da ufpa - helpers */
 

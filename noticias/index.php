@@ -24,7 +24,7 @@ include '../_includes/page_top.php'
 
     <section class="page-block">
 
-        <p>Com mais de 60 mil pessoas distribuídas em 12 campi na capital e no interior, a UFPA produz ensino, ciência, tecnologia e extensão que beneficiam toda a sociedade. E toda essa produção de conhecimento gera notícias e informação de grande relevância para a população da capital e também do interior do Pará.</p>
+        <p>Notícias e informações sobre os eventos e celebrações que marcam os 60 anos da Universidade Federal do Pará.</p>
         
     </section>
     
@@ -48,7 +48,7 @@ include '../_includes/page_top.php'
 
 
 
-<?php include '../_includes/page_bottom.php' ?>
+<?php include '../_includes/footer-0.php' ?>
 
 </body>
 

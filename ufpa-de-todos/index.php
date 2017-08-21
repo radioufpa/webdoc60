@@ -10,7 +10,6 @@ include '../_includes/page_top.php'
 ?>
 
 <link rel="stylesheet" href="../_styles/owl.carousel.min.css">
-
 <style type="text/css">
     .owl-stage { padding: 25px; }
     .owl-carousel .owl-nav { position: relative; margin: 0 auto; }
@@ -99,12 +98,12 @@ include '../_includes/page_top.php'
                         </a>
                     </div>
 
-                    <div class="item people">
+                    <!-- <div class="item people">
                         <a href="#" data-fancybox="inclusao" data-caption="José Miguel Veloso -  Assessor de Educação a Distância da UFPA">
                             <figure style="background-image: url('../_media/images/pessoas/miguel.jpg');"></figure>
                             <h4>Miguel</h4>
                         </a>
-                    </div>
+                    </div> -->
 
                     <div class="item"></div>
 
@@ -205,12 +204,12 @@ include '../_includes/page_top.php'
                     </a>
                 </div>
 
-                <div class="item people">
+                <!-- <div class="item people">
                     <a href="#" data-fancybox="faco-parte" data-caption="Adilson do Espírito Santo – Coord. Geral do campus Salinópolis">
                         <figure style="background-image: url('#');"></figure>
                         <h4>Adilson</h4>
                     </a>
-                </div>
+                </div> -->
 
                 <div class="item people">
                     <a href="https://www.youtube.com/watch?v=BVmOJDj6tmY" data-fancybox="faco-parte" data-caption="Sérgio Moraes - Diretor do NUMA">
@@ -254,12 +253,12 @@ include '../_includes/page_top.php'
                     </a>
                 </div>
 
-                <div class="item people">
+                <!-- <div class="item people">
                     <a href="#" data-fancybox="faco-parte" data-caption="Luiza Martins – Diretora do NMT">
                         <figure style="background-image: url('#');"></figure>
                         <h4>Luiza</h4>
                     </a>
-                </div>
+                </div> -->
 
                 <div class="item"></div>
 
@@ -304,18 +303,18 @@ include '../_includes/page_top.php'
                 </div>
 
                 <div class="item people">
-                    <a href="https://www.youtube.com/watch?v=FEF1X96pIlI" data-fancybox="inclusao" data-caption="Rosicleide Lobo – Estudante de História">
+                    <a href="https://www.youtube.com/watch?v=FEF1X96pIlI" data-fancybox="inclusao" data-caption="Rose Lobo – Estudante de História">
                         <figure style="background-image: url('../_media/images/pessoas/rosicleide.jpg');"></figure>
-                        <h4>Rosicleide</h4>
+                        <h4>Rose</h4>
                     </a>
                 </div>
 
-                <div class="item people">
+                <!-- <div class="item people">
                     <a href="#" data-fancybox="inclusao" data-caption="Raimundo Abreu dos Santos – ???">
                         <figure style="background-image: url('../_media/images/pessoas/raimundo.jpg');"></figure>
                         <h4>Raimundo</h4>
                     </a>
-                </div>
+                </div> -->
 
                 <div class="item people"></div>
 
@@ -331,9 +330,8 @@ include '../_includes/page_top.php'
     </div>
 
 
-<?php include '../_includes/page_bottom.php' ?>
+<?php include '../_includes/footer-3.php' ?>
 
-<script src="../_scripts/owl.carousel.js"></script>
 <script>
     $('.owl-carousel').owlCarousel({
     loop:true,

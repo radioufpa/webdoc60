@@ -1,7 +1,7 @@
 <?php 
 
 $page_title = "Radiodocumentário";
-$page_description = "A Rádio Web UFPA produziou um radiodocumentário em 6 episódios para você conhecer as principais histórias e ações da maior universidade do Norte do Brasil em suas seis décadas de existência.";
+$page_description = "A Rádio Web UFPA produziou um radiodocumentário em 6 Capítulos para você conhecer as principais histórias e ações da maior universidade do Norte do Brasil em suas seis décadas de existência.";
 $page_keywords = "radiodoc ufpa 60 anos, radiodocumentario ufpa, 60 anos ufpa";
 $page_color= "#0cb1ec";
 
@@ -17,7 +17,7 @@ include '../_includes/page_top.php'
             <div class="left">
                 <h1>Radiodoc UFPA 60 Anos</h1>
                 <hr>
-                <p>Divido em seis episódio, o Radiodocumentário é um passeio pela história da UFPA desde a implantação em 1957 até os desafios na atualidade. Uma trajetória de lutas e conquistas para o desenvolvimento científico, tecnológico e social da Amazônia.</p>
+                <p>Divido em seis capítulos, o Radiodocumentário é um passeio pela história da UFPA desde a implantação em 1957 até os desafios na atualidade. Uma trajetória de lutas e conquistas para o desenvolvimento científico, tecnológico e social da Amazônia.</p>
             </div>
 
 
@@ -27,12 +27,12 @@ include '../_includes/page_top.php'
 
         <div class="left">
             
-            <a data-fancybox data-type="iframe" data-src="https://clyp.it/jmnygc5r/widget" href="javascript:;" class="track">
+            <a href="javascript:;" data-src="#ep1" data-fancybox="ep" class="track">
                 <figure style="background-image: url('../_media/images/radiodoc/ep1.jpg');"></figure>
                 <div class="description">
-                    <h3><span>Episódio 1</span> Dos anos dourados aos de chumbo, a construção da Universidade na Amazônia</h3>
-                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap1-dos-anos-dourados-aos-anos-de-chumbo-a-construcao-da-universidade-na-amazonia.pdf">Descrição</button>
-                    <button class="baixar">Baixar</button>
+                    <h3><span>Capítulo 1</span> Dos anos dourados aos de chumbo, a construção da Universidade na Amazônia</h3>
+                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap1-dos-anos-dourados-aos-anos-de-chumbo-a-construcao-da-universidade-na-amazonia.pdf">Descrição acessivel (PDF)</button>
+                    <button class="baixar">Baixar áudio (MP3)</button>
                     <p>Até 02 de julho de 1957, a Universidade Federal do Pará era apenas um projeto de lei que tramitava há cinco anos na Câmara Federal, em Brasília. Enquanto isso, várias faculdades e escolas de ensino superior já funcionavam em Belém e os estudantes lutavam pela criação da universidade. Um sonho que se concretizou nos chamados anos dourados e avançou durante os anos de chumbo com a ditadura militar.</p>
                 </div>
             </a>
@@ -41,9 +41,9 @@ include '../_includes/page_top.php'
 
                 <figure style="background-image: url('../_media/images/radiodoc/ep2.jpg');"></figure>
                 <div class="description">
-                    <h3><span>Episódio 2</span> Ensino para inclusão e cidadania na Amazônia</h3>
-                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap2-ensino-para-inclusao-e-cidadania-na-amazonia.pdf">Descrição</button>
-                    <button class="baixar">Baixar</button>
+                    <h3><span>Capítulo 2</span> Ensino para inclusão e cidadania na Amazônia</h3>
+                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap2-ensino-para-inclusao-e-cidadania-na-amazonia.pdf">Descrição acessivel (PDF)</button>
+                    <button class="baixar">Baixar áudio (MP3)</button>
                     <p>A Universidade Federal do Pará tem como principal atividade a formação em ensino superior. Neste programa, vamos conhecer um pouco da história do ensino, abordando desde a implantação da UFPA em Belém até a evolução do acesso à universidade em todo o estado por meio da Educação a Distância. Conheça também a atuação da UFPA na Educação Básica, com a Escola de Aplicação, além das conquistas e os desafios para a graduação.</p>
                 </div>
             </a>
@@ -53,9 +53,9 @@ include '../_includes/page_top.php'
 
                 <figure style="background-image: url('../_media/images/radiodoc/ep3.jpg');"></figure>
                 <div class="description">
-                    <h3><span>Episódio 3</span> A força da Pesquisa na Amazônia</h3>
-                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap3-a-forca-da-pesquisa-na-amazoonia.pdf">Descrição</button>
-                    <button class="baixar">Baixar</button>
+                    <h3><span>Capítulo 3</span> A força da Pesquisa na Amazônia</h3>
+                    <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap3-a-forca-da-pesquisa-na-amazoonia.pdf">Descrição acessivel (PDF)</button>
+                    <button class="baixar">Baixar áudio (MP3)</button>
                     <p>Com 86 programas de pós-graduação, 535 grupos de pesquisa e 3.324 pesquisadores, a Universidade Federal do Pará é uma das principais instituições científicas do Brasil e uma liderança na região Norte. Entre as marcas desse trabalho estão a inovação e o compromisso com o desenvolvimento social da Amazônia. Neste programa, você conhece a trajetória do avanço da ciência na Universidade.</p>
                 </div>
             </a>
@@ -65,9 +65,9 @@ include '../_includes/page_top.php'
 
             <figure style="background-image: url('../_media/images/radiodoc/ep4.jpg');"></figure>
             <div class="description">
-                <h3><span>Episódio 4</span> O diálogo entre a Universidade e a sociedade na Amazônia</h3>
-                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap4-o-dialogo-entre-a-universidade-e-a-sociedade-na-amazonia.pdf">Descrição</button>
-                <button class="baixar">Baixar</button>
+                <h3><span>Capítulo 4</span> O diálogo entre a Universidade e a sociedade na Amazônia</h3>
+                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap4-o-dialogo-entre-a-universidade-e-a-sociedade-na-amazonia.pdf">Descrição acessivel (PDF)</button>
+                <button class="baixar">Baixar áudio (MP3)</button>
                 <p>A socialização do conhecimento é um dos princípios básicos das instituições de ensino superior, uma missão posta em prática por meio da extensão universitária. Neste programa, você alguns exemplos de ações extensionistas executadas pela Universidade Federal do Pará que demonstram o impacto e a importância do relacionamento entre academia e comunidade.</p>
             </div>
         </a>
@@ -77,9 +77,9 @@ include '../_includes/page_top.php'
 
             <figure style="background-image: url('../_media/images/radiodoc/ep5.jpg');"></figure>
             <div class="description">
-                <h3><span>Episódio 5</span> A integração dos saberes no interior da Amazônia</h3>
-                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap5-a-integracao-dos-saberes-no-interior-da-amazônia.pdf">Descrição</button>
-                <button class="baixar">Baixar</button>
+                <h3><span>Capítulo 5</span> A integração dos saberes no interior da Amazônia</h3>
+                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap5-a-integracao-dos-saberes-no-interior-da-amazônia.pdf">Descrição acessivel (PDF)</button>
+                <button class="baixar">Baixar áudio (MP3)</button>
                 <p>Há 30 anos a interiorização da Universidade fortalece a educação básica e apoia o desenvolvimento social a partir da expansão do ensino superior na Amazônia paraense. Neste capítulo saiba mais sobre a trajetória da interiorização da UFPA, os principais desafios do projeto e como a iniciativa tem contribuído para uma nova realidade da educação no Pará.</p>
             </div>
         </a>
@@ -89,9 +89,9 @@ include '../_includes/page_top.php'
 
             <figure style="background-image: url('../_media/images/radiodoc/ep6.jpg');"></figure>
             <div class="description">
-                <h3><span>Episódio 6</span> Sonhos para transformar a realidade amazônica</h3>
-                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap6-sonhos-para-transformar-a-realidade-na-amazonia.pdf">Descrição</button>
-                <button class="baixar">Baixar</button>
+                <h3><span>Capítulo 6</span> Sonhos para transformar a realidade amazônica</h3>
+                <button class="descricao" data-fancybox data-src="../_media/docs/webdoc-ufpa-60-anos-cap6-sonhos-para-transformar-a-realidade-na-amazonia.pdf">Descrição acessivel (PDF)</button>
+                <button class="baixar">Baixar áudio (MP3)</button>
                 <p>Aos 60 anos, a Universidade tem uma trajetória marcada por desafios, lutas e conquistas. Neste capítulo, conheça ações estratégicas que a UFPA tem realizado em áreas como internacionalização, valorização de servidores, políticas afirmativas e como esse trabalho repercute na missão e no desenvolvimento institucional da Universidade.</p>
             </div>
         </a>
@@ -105,7 +105,7 @@ include '../_includes/page_top.php'
     </section>
 
 
-    <section>
+<!-- <section>
         
 
 
@@ -134,13 +134,13 @@ include '../_includes/page_top.php'
 
 </div>
 
-    </section>
+</section> -->
 
 
-    <!-- FANCYBOX -->
+    <!-- fancy -->
 
     <div style="display: none;" id="ep1">
-        <h2>1 - Dos anos dourados aos anos de chumbo, a construção da Universidade na Amazônia.</h2>
+        <h2>1 - Dos anos dourados aos anos de chumbo, a construção da Universidade na Amazônia</h2>
 
         <div class="audio">
             <audio id="audio" controls>
@@ -154,7 +154,7 @@ include '../_includes/page_top.php'
 
 
     <div style="display: none;" id="ep2">
-        <h2>2 - Ensino para a Inclusão e Cidadania na Amazônia</h2>
+        <h2>2 - Ensino para inclusão e cidadania na Amazônia</h2>
 
         <div class="audio">
             <audio id="audio" controls>
@@ -162,17 +162,17 @@ include '../_includes/page_top.php'
             </audio>
         </div>
         
-        <p>A Universidade Federal do Pará tem como principal atividade a formação em ensino superior. Neste programa, vamos conhecer um pouco da história do ensino, abordando desde a implantação da UFPA em Belém até a evolução do acesso à universidade em todo o estado por meio da Educação a Distância. Conheça também a atuação da UFPA na Educação Básica, com a Escola de Aplicação, além das conquistas e os desafios para a graduação. </p>
+        <p>A Universidade Federal do Pará tem como principal atividade a formação em ensino superior. Neste programa, vamos conhecer um pouco da história do ensino, abordando desde a implantação da UFPA em Belém até a evolução do acesso à universidade em todo o estado por meio da Educação a Distância. Conheça também a atuação da UFPA na Educação Básica, com a Escola de Aplicação, além das conquistas e os desafios para a graduação.</p>
 
     </div>
 
 
     <div style="display: none;" id="ep3">
-        <h2>3 - A Força da Pesquisa na Amazônia</h2>
+        <h2>3 - A força da Pesquisa na Amazônia</h2>
 
         <div class="audio">
             <audio id="audio" controls>
-                <source src="../_media/audios/pio-lobato-2x2.mp3" type="audio/mpeg">
+                <source src="../_media/audios/radiodoc-ufpa-60-anos-ep3-a-forca-da-pesquisa-na-amazonia.mp3" type="audio/mpeg">
             </audio>
         </div>
         
@@ -182,15 +182,15 @@ include '../_includes/page_top.php'
 
 
         <div style="display: none;" id="ep4">
-        <h2>4 - A Universidade para Todos</h2>
+        <h2>4 - O diálogo entre a Universidade e a sociedade na Amazônia</h2>
 
         <div class="audio">
             <audio id="audio" controls>
-                <source src="../_media/audios/pio-lobato-2x2.mp3" type="audio/mpeg">
+                <source src="../_media/audios/radiodoc-ufpa-60-anos-ep4-o-dialogo-entre-a-universidade-e-a-sociedade-na-amazonia.mp3" type="audio/mpeg">
             </audio>
         </div>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>A socialização do conhecimento é um dos princípios básicos das instituições de ensino superior, uma missão posta em prática por meio da extensão universitária. Neste programa, você alguns exemplos de ações extensionistas executadas pela Universidade Federal do Pará que demonstram o impacto e a importância do relacionamento entre academia e comunidade.</p>
 
     </div>
 
@@ -200,7 +200,7 @@ include '../_includes/page_top.php'
         
         <div class="audio">
             <audio id="audio" controls>
-                <source src="../_media/audios/pio-lobato-2x2.mp3" type="audio/mpeg">
+                <source src="../_media/audios/radiodoc-ufpa-60-anos-ep5-a-integracao-dos-saberes-na-amazonia.mp3" type="audio/mpeg">
             </audio>
         </div>
         
@@ -210,15 +210,15 @@ include '../_includes/page_top.php'
 
 
     <div style="display: none;" id="ep6">
-        <h2>6 - Conquistas e Desafios para a Transformação da Amazônia</h2>
+        <h2>6 - Sonhos para transformar a realidade amazônica</h2>
 
         <div class="audio">
             <audio id="audio" controls>
-                <source src="../_media/audios/pio-lobato-2x2.mp3" type="audio/mpeg">
+                <source src="../_media/audios/radiodoc-ufpa-60-anos-ep6-sonhos-para-transformar-a-realidade-na-amazonia.mp3" type="audio/mpeg">
             </audio>
         </div>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Aos 60 anos, a Universidade tem uma trajetória marcada por desafios, lutas e conquistas. Neste capítulo, conheça ações estratégicas que a UFPA tem realizado em áreas como internacionalização, valorização de servidores, políticas afirmativas e como esse trabalho repercute na missão e no desenvolvimento institucional da Universidade.</p>
 
     </div>
 
@@ -226,11 +226,7 @@ include '../_includes/page_top.php'
 
     </div>
 
-
-<?php include '../_includes/page_bottom.php' ?>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/plyr/1.6.14/plyr.js"></script>
-<script src="../_scripts/playlist.js"></script>
+<?php include '../_includes/footer-1.php' ?>
 
 </body>
 

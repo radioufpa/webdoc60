@@ -138,14 +138,7 @@ include '../_includes/page_top.php'
 
     </section>
 
-
-    <footer>
-
-    </footer>
-
-
-
-<?php include '../_includes/page_bottom.php' ?>
+<?php include '../_includes/footer-0.php' ?>
 
 </body>
 

@@ -119,7 +119,7 @@
 
 				           		<a href="eu-na-ufpa" onmouseenter="playAudio()">
 				                    <figure class="icon-pessoa"></figure>
-				                    <h4>Eu na UFPA</h4>
+				                    <h4>#EuNaUFPA</h4>
 				                </a>
 
 				                <a href="sons-da-ufpa" onmouseenter="playAudio()">
@@ -268,7 +268,7 @@
 
 			            		<p>Você também faz parte <3</p>
 
-				            	<h2>Eu Na UFPA</h2>
+				            	<h2>#EuNaUFPA</h2>
 
 								<p>Faça sua selfie ou videoselfie na universidade e publique nas redes sociais com a hashtag #EuNaUFPA. Você aparecerá aqui. Participe!</p>
 							</a>
@@ -294,7 +294,6 @@
 		<ul>
 			<p><?php echo date("Y");?> &copy; Rádio Web UFPA</p>
 			<li><a href="equipe">Equipe</a></li>
-	        <li><a href="referencias">Referências</a></li>
 		</ul>
 
 	</footer>

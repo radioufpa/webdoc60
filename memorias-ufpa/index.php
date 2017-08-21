@@ -315,95 +315,6 @@ include '../_includes/page_top.php'
   </section>
 
     
-    <section class="auto-screen">
-
-      <div class="screen-container">
-
-        <div class="left">
-          
-          <h3>Doutor Honoris Causa</h3>
-            
-            <div class="box-text">
-              <h4 class="blue-text">1. Quem recebe?</h4>
-              <p>Personalidades que se destacam em áreas ou temas importantes para a insituição. Geralmente são pessoas que atuaram com sucesso nas ciências, artes, filosofia, letras e no melhor entendimento entre os povos. Não se leva em consideração o desempenho acadêmico.</p>
-            </div>
-
-            <div class="box-text">
-              <h4 class="blue-text">2. Quem concede?</h4>
-              <p>Cada instituição possui suas regras para concessão. A UFPA outorga o título por meio do Conselho Universitário, com aprovação de pelo menos 2/3 do colegiado. A consessão do título somente poderá ser proposta por iniciativa do reitor ou de um Conselho de Campus ou Congregação de Unidade Acadêmica.</p>
-            </div>
-
-        </div>
-
-        <div class="horinzontal-container">
-          <div class="owl-carousel">
-
-            <div class="horinzontal">
-              <ol>
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-waldir-bouhid.jpg">
-                  <h4>Waldir Bouhid</h4>
-                  <p>Político - 1960</p>
-                </div></a>
-                </li>
-
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-paulo-freire.jpg">
-                  <h4>Paulo Freire</h4>
-                  <p>Pedagogo - 1960</p>
-                </div></a>
-                </li>
-              </ol>
-            </div>
-
-            <div class="horinzontal">
-              <ol>
-                <li>
-                <a href="#"><div>
-                <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-guilherme-la-penha.jpg">
-                  <h4>Guilherme La Penha</h4>
-                  <p>Cientista - 1979</p>
-                </div></a>
-                </li>
-
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-maria-deane.jpg">
-                  <h4>Maria P. Deane</h4>
-                  <p>Cientista - 1986</p>
-                </div></a>
-                </li>
-              </ol>
-            </div>
-
-            <div class="horinzontal">
-              <ol>
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-max-martins.jpg">
-                  <h4>Max Martins</h4>
-                  <p>Poeta - 2001</p>
-                 </div></a>
-                </li>
-
-                <li>
-                <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-dom-luiz-azcona.jpg">
-                  <h4>Dom Luiz Azcona</h4>
-                  <p>Bispo - ???</p>
-                </div></a>
-                </li>
-              </ol>
-            </div>
-
-          </div>
-        </div>
-
-      <div>
-
-  </section>
 
 
   <section class="auto-screen">
@@ -509,6 +420,96 @@ include '../_includes/page_top.php'
   </section>
 
 
+<section class="auto-screen">
+
+      <div class="screen-container">
+
+        <div class="left">
+          
+          <h3>Doutor Honoris Causa</h3>
+            
+            <div class="box-text">
+              <h4 class="blue-text">1. Quem recebe?</h4>
+              <p>Personalidades que se destacam em áreas ou temas importantes para a insituição. Geralmente são pessoas que atuaram com sucesso nas ciências, artes, filosofia, letras e no melhor entendimento entre os povos. Não se leva em consideração o desempenho acadêmico.</p>
+            </div>
+
+            <div class="box-text">
+              <h4 class="blue-text">2. Quem concede?</h4>
+              <p>Cada instituição possui suas regras para concessão. A UFPA outorga o título por meio do Conselho Universitário, com aprovação de pelo menos 2/3 do colegiado. A consessão do título somente poderá ser proposta por iniciativa do reitor ou de um Conselho de Campus ou Congregação de Unidade Acadêmica.</p>
+            </div>
+
+        </div>
+
+        <div class="horinzontal-container">
+          <div class="owl-carousel">
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-waldir-bouhid.jpg">
+                  <h4>Waldir Bouhid</h4>
+                  <p>Político - 1960</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-paulo-freire.jpg">
+                  <h4>Paulo Freire</h4>
+                  <p>Pedagogo - 1960</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-guilherme-la-penha.jpg">
+                  <h4>Guilherme La Penha</h4>
+                  <p>Cientista - 1979</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-maria-deane.jpg">
+                  <h4>Maria P. Deane</h4>
+                  <p>Cientista - 1986</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-max-martins.jpg">
+                  <h4>Max Martins</h4>
+                  <p>Poeta - 2001</p>
+                 </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-doutor-honoris-causa-dom-luiz-azcona.jpg">
+                  <h4>Dom Luiz Azcona</h4>
+                  <p>Bispo - ???</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+          </div>
+        </div>
+
+      <div>
+
+  </section>
+
 
   <section class="auto-screen">
 
@@ -540,23 +541,20 @@ include '../_includes/page_top.php'
 </div>
 
 
-<?php include '../_includes/page_bottom.php' ?>
+<?php include '../_includes/footer-2.php' ?>
 
-  <script src="../_scripts/timeline.js"></script>
-  
-  <script src="../_scripts/owl.carousel.js"></script>
-  <script>
-    $(document).ready(function() {
-      var owl = $('.owl-carousel');
-      owl.owlCarousel({
-        margin: 0,
-        nav: true,
-        autoWidth:true,
-      items:6,
-        loop: false            
-      })
+<script>
+  $(document).ready(function() {
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+      margin: 0,
+      nav: true,
+      autoWidth:true,
+    items:6,
+      loop: false            
     })
-  </script>
+  })
+</script>
 
 </body>
 
