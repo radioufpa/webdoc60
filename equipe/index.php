@@ -9,7 +9,7 @@ include '../_includes/page_top.php'
 
 ?>
 
-    <section class="auto-screen layer img-xxx page">
+    <section class="auto-screen layer img-ufpa page">
 
         <div class="screen-container color-orange">
 

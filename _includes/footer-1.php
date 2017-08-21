@@ -2,7 +2,7 @@
     
     <!-- Radiodocumentário -->
 
-    <h2>Continue navegando:</h2>
+    <h4>Continue navegando:</h4>
 
     <div class="tile tile-footer">
         <figure class="img-memorias"></figure>

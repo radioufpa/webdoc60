@@ -2,7 +2,7 @@
     
     <!-- Equipe -->
 
-    <h3>Continue navegando...</h3>
+    <h4>Continue navegando:</h4>
 
     <div class="tile tile-footer">
         <figure class="img-home"></figure>

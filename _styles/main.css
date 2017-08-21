@@ -220,8 +220,8 @@ footer ul {
   list-style: none;
   margin: 5px;
 }
-footer h2 {
-  font-size: 3.5rem;
+footer h4 {
+  font-size: 3rem;
   padding: 64px 0;
 }
 
@@ -518,13 +518,13 @@ article blockquote {
 
 /* images */
 
-.img-home { background-image: url("../_media/images/backgrounds/imagem5.png"); }
-.img-videos { background-image: url("../_media/images/backgrounds/imagem2.png"); }
-.img-memorias { background-image: url("../_media/images/backgrounds/imagem4.png"); }
-.img-galeria { background-image: url("../_media/images/backgrounds/imagem1.png"); }
-.img-sons { background-image: url("../_media/images/backgrounds/imagem3.png"); }
+.img-home { background-image: url("../_media/images/backgrounds/bg1.jpg"); }
+.img-memorias { background-image: url("../_media/images/backgrounds/bg2.jpg"); }
+.img-videos { background-image: url("../_media/images/backgrounds/bg3.jpg"); }
+.img-galeria { background-image: url("../_media/images/backgrounds/bg4.jpg"); }
+.img-sons { background-image: url("../_media/images/backgrounds/bg5.jpg"); }
 
-.bg-ufpa { background-image: url("../_media/images/backgrounds/ufpa-aerea.jpg"); }
+.img-ufpa { background-image: url("../_media/images/backgrounds/ufpa-aerea.jpg"); }
 .bg-ufpa-2 { background-image: url("../_media/images/backgrounds/ufpa-aerea-2.jpg"); }
 .img-rio { background-image: url("../_media/images/backgrounds/ufpa-rio.jpg"); }
 .img-biblioteca { background-image: url("../_media/images/backgrounds/ufpa-biblioteca.jpg"); }
@@ -550,9 +550,7 @@ article blockquote {
 .icon-whatsapp { background-image: url("../_media/images/ui/whatsapp.svg"); }
 .icon-pinterest { background-image: url("../_media/images/ui/pinterest.svg"); }
 
-/* load 
-https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif
-*/
+/* load */
 
 #load {
   width: 100%;
@@ -594,7 +592,7 @@ https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif
 }
 .img-page {
   background-attachment: fixed;
-  background-position: bottom center;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }

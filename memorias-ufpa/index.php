@@ -13,7 +13,7 @@ include '../_includes/page_top.php'
 <link rel="stylesheet" href="../_styles/owl.carousel.min.css">
 
 
-<main class="img-page img-biblioteca">
+<main class="img-page img-memorias">
     
 
     <div class="auto-screen layer page">
@@ -33,7 +33,7 @@ include '../_includes/page_top.php'
     <section class="timeline">
 
         <div class="left">
-            <h3>Linha do Tempo</h3>
+            <h2>Linha do Tempo</h2>
         </div>
 
         <ul>
@@ -161,7 +161,7 @@ include '../_includes/page_top.php'
 
         <div class="left">
 
-            <h3>Reitores</h3>
+            <h2>Reitores</h2>
         
 
             <div class="box-text">
@@ -323,7 +323,7 @@ include '../_includes/page_top.php'
 
       <div class="left">
         
-        <h3>Professor Emérito</h3>
+        <h2>Professores Eméritos</h2>
           
           <div class="box-text">
             <h4 class="blue-text">1. Quem recebe?</h4>
@@ -426,7 +426,7 @@ include '../_includes/page_top.php'
 
         <div class="left">
           
-          <h3>Doutor Honoris Causa</h3>
+          <h2>Doutores Honoris Causa</h2>
             
             <div class="box-text">
               <h4 class="blue-text">1. Quem recebe?</h4>
@@ -558,7 +558,7 @@ include '../_includes/page_top.php'
 
       <div class="left">
         
-        <h3>Estatutos</h3>
+        <h2>Estatutos</h2>
           
           <div class="box-text">
             <h4 class="blue-text">1. O que é?</h4>

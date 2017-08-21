@@ -227,6 +227,37 @@
 
 
 
+
+			<div class="swiper-slide" data-hash="eu-na-ufpa">
+
+	            <section class="full-screen layer img-galeria">
+
+	            	<div class="screen-container color-purple">
+
+		            	<div class="left">
+							
+							<a href="eu-na-ufpa" class="bloco" onmouseenter="playAudio()">
+								<figure class="icon-pessoa"></figure>
+
+			            		<p>Você também faz parte <3</p>
+
+				            	<h2>#EuNaUFPA</h2>
+
+								<p>Faça sua selfie ou videoselfie na universidade e publique nas redes sociais com a hashtag #EuNaUFPA. Você aparecerá aqui. Participe!</p>
+							</a>
+
+			            </div>
+
+		            </div>
+
+		        </section>
+				
+			</div>
+
+
+
+
+
 			<div class="swiper-slide" data-hash="sons-da-ufpa">
 
 
@@ -255,31 +286,6 @@
 
 
 
-			<div class="swiper-slide" data-hash="eu-na-ufpa">
-
-	            <section class="full-screen layer img-galeria">
-
-	            	<div class="screen-container color-purple">
-
-		            	<div class="left">
-							
-							<a href="eu-na-ufpa" class="bloco" onmouseenter="playAudio()">
-								<figure class="icon-pessoa"></figure>
-
-			            		<p>Você também faz parte <3</p>
-
-				            	<h2>#EuNaUFPA</h2>
-
-								<p>Faça sua selfie ou videoselfie na universidade e publique nas redes sociais com a hashtag #EuNaUFPA. Você aparecerá aqui. Participe!</p>
-							</a>
-
-			            </div>
-
-		            </div>
-
-		        </section>
-				
-			</div>
 
 
 

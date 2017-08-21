@@ -9,7 +9,7 @@ include '../_includes/page_top.php'
 
 ?>
 
-<main class="img-page img-barco">
+<main class="img-page img-sons">
     
 
     <div class="auto-screen layer page">
