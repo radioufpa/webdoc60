@@ -137,7 +137,7 @@ include '../_includes/page_top.php'
             <li>
 
                 <figure class="left-photo">
-                   <a data-fancybox="linha-do-tempo" data-caption="Anos 2010 - Alunos da UFPA conversando na beira do rio. Foto: Alexandre de Moraes." href="../_media/images/memorias/anos-2010-ufpa-alunos-beira-rio.jpg"><img src="../_media/images/memorias/anos-2010-ufpa-alunos-beira-rio.jpg"></a>
+                   <a data-fancybox="linha-do-tempo" data-caption="Anos 2010 - Alunos da UFPA conversando na beira do rio. Foto: Alexandre de Moraes/Ascom UFPA. #PraCegoVer Fotografia colorida de sete alunos conversando na beira do Rio. Cinco deles estão de pé, enquanto um está sentado e outro está agachado." href="../_media/images/memorias/anos-2010-ufpa-alunos-beira-rio.jpg"><img src="../_media/images/memorias/anos-2010-ufpa-alunos-beira-rio.jpg"></a>
                 </figure>
               <div>
 
@@ -338,7 +338,7 @@ include '../_includes/page_top.php'
       </div>
 
       
-              <div class="horinzontal-container">
+        <div class="horinzontal-container">
           <div class="owl-carousel">
 
             <div class="horinzontal">
@@ -353,9 +353,9 @@ include '../_includes/page_top.php'
 
                 <li>
                 <a href="#"><div>
-                  <img src="../_media/images/pessoas/ufpa-professor-emerito-jurandyr-garcez.jpg">
-                  <h4>Jurandyr Garcez</h4>
-                  <p>2001</p>
+                  <img src="../_media/images/pessoas/ufpa-professor-emerito-joao-paulo-valle-mendes.jpg">
+                  <h4>João Paulo Valle Mendes</h4>
+                  <p>2012</p>
                 </div></a>
                 </li>
               </ol>
@@ -365,9 +365,51 @@ include '../_includes/page_top.php'
               <ol>
                 <li>
                 <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-professor-emerito-raymundo heraldo-maues.jpg">
+                  <h4>Raymundo Heraldo Maués</h4>
+                  <p>2010</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-professor-emerito-jurandyr-garcez.jpg">
+                  <h4>Jurandyr Garcez</h4>
+                  <p>2001</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
                 <img src="../_media/images/pessoas/ufpa-professor-emerito-benedito-nunes.jpg">
                   <h4>Benedito Nunes</h4>
                   <p>1996</p>
+                </div></a>
+                </li>
+
+                <li>
+                <a href="#"><div>
+                <img src="../_media/images/pessoas/ufpa-professor-emerito-maria-annunciada-chaves.jpg">
+                  <h4>Maria Annunciada Ramos Chaves</h4>
+                  <p>1992</p>
+                </div></a>
+                </li>
+              </ol>
+            </div>
+
+
+            <div class="horinzontal">
+              <ol>
+                <li>
+                <a href="#"><div>
+                  <img src="../_media/images/pessoas/ufpa-professor-emerito-clara pandolfo.jpg">
+                  <h4>Clara Martins Pandolfo</h4>
+                  <p>1989</p>
                 </div></a>
                 </li>
 

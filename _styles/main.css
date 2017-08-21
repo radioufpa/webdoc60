@@ -1366,6 +1366,12 @@ filter: gray; */
 }
 
 
+/* fancybox */
+.fancybox-caption {
+  font-size: 1.2rem;
+  line-height: auto;
+}
+
 /* swiper */
 
 .swiper-container {
