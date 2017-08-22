@@ -7,7 +7,7 @@
 	
 	<title>Webdoc UFPA 60 Anos</title>
   	<meta name="description" content="#">
-  	<meta name="keywords" content="#">
+  	<meta name="keywords" content="webdoc ufpa, webdocumentario ufpa, webdocumentario ufpa 60 anos">
 
   	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
   	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css">

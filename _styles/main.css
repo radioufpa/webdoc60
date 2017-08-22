@@ -4,12 +4,12 @@
   font-family: 'Museo-Regular';
   src: url('../_media/fonts/Museo-500.otf') format("opentype");
   font-weight: 500;
-  }
+}
 @font-face {
   font-family: 'Museo-Medium';
   src: url('../_media/fonts/Museo-700.otf') format("opentype");
   font-weight: 700;
-  }
+}
 
 *, *:after, *:before {
   margin: 0;
@@ -344,7 +344,7 @@ img {
 
 article {
   position: relative;
-  max-width: 800px;
+  max-width: 850px;
   margin: 0 auto;
   padding: 16px 6%;
   background-color: transparent;
@@ -354,10 +354,14 @@ article p {
   text-align: left;
   padding: 0 0 28px 0;
   max-width: 100%;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #333 !important;
 }
 article h2, article h3, article h4 {
   text-align: left;
   padding: 28px 0;
+  color: #222 !important;
 }
 article h4 {
   font-size: 2rem;
@@ -391,6 +395,16 @@ article blockquote {
   line-height: 1.8;
   letter-spacing: 0.24px;
   font-style: italic;
+}
+
+article img {
+  margin: 0 0 20px 0;
+}
+
+.noticia {
+  background-color: #fff;
+  padding: 20px 40px;
+  margin-top: 32px;
 }
 
 /* screen */

@@ -96,7 +96,7 @@ include '../_includes/page_top.php'
 
             <div class="tile tile-sons tile-large">
                 <figure class="img-sapo"></figure>
-                <a href="javascript:;" onmouseenter="playAudio('som-sapo.mp3')">
+                <a href="javascript:;" onmouseenter="playAudio('som-sapo_.mp3')">
                     <div>
                         <h3>Sapos</h3>
                     </div>
