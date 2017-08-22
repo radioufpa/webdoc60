@@ -24,7 +24,7 @@ include '../_includes/page_top.php'
 
     <section class="page-block">
 
-        <p>Equipe da Rádio Web UFPA.</p>
+        <p>Copyright © 2017 Rádio Web UFPA. Todos os direitos reservados. Este site e todo seu conteúdo está publicado sob a licença: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" target="_blank">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.</p>
         
     </section>
     

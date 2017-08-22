@@ -52,7 +52,7 @@ include '../_includes/page_top.php'
                     </div>
 
                     <div class="item people">
-                        <a href="https://www.youtube.com/watch?v=HEhkh5p4mhE" data-fancybox="historia" data-caption="Edilza Fontes – Professora da Faculdade de História">
+                        <a href="https://www.youtube.com/watch?v=jUG0M_IquJk" data-fancybox="historia" data-caption="Edilza Fontes – Professora da Faculdade de História">
                             <figure style="background-image: url('../_media/images/pessoas/edilza.jpg');"></figure>
                             <h4>Edilza</h4>
                         </a>

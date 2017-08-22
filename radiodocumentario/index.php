@@ -137,7 +137,7 @@ include '../_includes/page_top.php'
 </section> -->
 
 
-    <!-- fancy -->
+    <!-- fancybox -->
 
     <div style="display: none;" id="ep1">
         <h2>1 - Dos anos dourados aos anos de chumbo, a construção da Universidade na Amazônia</h2>
