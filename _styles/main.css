@@ -866,6 +866,7 @@ article img {
   font-size: 2.1rem;
 }
 .track p {
+	display: none; 
   float: left;
   text-align: left;
   width: 100%;
