@@ -13,52 +13,40 @@
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/ufpa-de-todos</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/memorias-ufpa</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/eu-na-ufpa</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/sons-da-ufpa</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>weekly</changefreq>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/noticias</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
+	<priority>0.5</priority>
 </url>
 <url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
+	<loc>http://radio.ufpa.br/webdoc60/equipe</loc>
 	<lastmod>2017-08-22</lastmod>
 	<changefreq>monthly</changefreq>
-	<priority>0.2</priority>
-</url>
-<url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
-	<lastmod>2017-08-22</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.0</priority>
-</url>
-<url>
-	<loc>http://radio.ufpa.br/webdoc60</loc>
-	<lastmod>2017-08-22</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.0</priority>
+	<priority>0.5</priority>
 </url>
 </urlset>
  

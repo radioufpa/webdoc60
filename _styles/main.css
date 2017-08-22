@@ -119,15 +119,15 @@ nav a {
   display: inline-block;
   float: left;
   height: 200px;
-  width: 160px;
-  margin: 0.5rem;
+  width: 180px;
+  margin: 0;
   padding: 0.4rem 0;
   background-color: transparent;
   border-radius: 0;
   overflow: visible;
 }
 nav a:hover, nav a:focus {
-  transform: scale(1.5);
+  transform: scale(1.4);
 }
 nav a:hover figure, nav a:focus figure {
   background-color: rgba(255,255,255,.25);
@@ -137,7 +137,7 @@ nav h4 {
   float: none;
   text-align: center;
   padding: 0 10px;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   line-height: 1.2em;
   transition: 0.3s;
 }
@@ -147,7 +147,7 @@ nav figure {
   margin: 0 auto 10px;
   width: 124px;
   height: 124px;
-  background-size: 54px;
+  background-size: 60px;
   background-repeat: no-repeat;
   background-position: center;
   background-color: rgba(255,255,255,.0);
@@ -562,19 +562,27 @@ article blockquote {
   background-position: center;
   background-repeat: no-repeat;
   background-color: #fff;
-  transition: all 0.3s;
+  transition: all .3s;
 }
 
 /* gallery */
 
 .gallery {
-  max-width: 1000px;
+  max-width: 1020px;
   margin: 0 auto;
 }
 .gallery img {
   width: 300px;
   height: 300px;
   margin: 10px;
+  border: 8px solid rgb(144, 22, 255);
+  transition: all .3s;
+}
+
+.gallery img:hover, .gallery img:focus {
+  transform: scale(1.05);
+  border-color: rgb(238, 46, 161);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.15);
 }
 
 /* page helper */
@@ -972,7 +980,7 @@ article blockquote {
   padding: 0;
   width: 100%;
   text-align: center;
-  border-radius: 8px;
+  border-radius: 0;
   background-position: center center;
   background-size: cover;
   background-attachment: scroll;
@@ -980,12 +988,13 @@ article blockquote {
   background-color: transparent;
   overflow: hidden;
   transition: all 0.3s;
-  box-shadow: 10px 10px 20px rgba(0,0,0,0.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.15);
 }
 .tile:hover, .tile:focus {
   cursor: pointer;
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.15);
 } 
 .tile figure {
   z-index: 0;
@@ -1030,19 +1039,16 @@ filter: gray; */
 }
 .tile h3 {
   font-size: 2rem;
-  font-weight: 700;
   position: relative;
   float: none;
   text-align: center;
-  padding: 32px 10%;
+  padding: 32px 5%;
   margin: 0 auto;
-  width: 80%;
-  max-width: 400px;
+  width: 90%;
+  max-width: 500px;
   color: #fff;
   height: auto;
-  line-height: 1.32em;
-  letter-spacing: 0;
-  text-transform: none;
+  line-height: 1.3;
   transition: all 0.3s;
 }
 .tile span {
@@ -1064,9 +1070,8 @@ filter: gray; */
 
 .tile-footer {
   margin: 1%;
-  border-radius: 0;
   width: 48%;
-  height: 280px;
+  height: 260px;
 }
 .tile-footer h3 {
   font-size: 3rem;
@@ -1075,13 +1080,23 @@ filter: gray; */
   cursor: pointer;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
+}
+.tile-footer:hover h3, .tile-footer:focus h3 {
+  font-size: 3.4rem;
 } 
 
-/* sons da ufpa - helpers */
+/* sons - helpers */
+
+.tile-sons {
+  border: 8px solid rgb(255, 71, 0);
+}
+.tile-sons:hover, .tile-sons:focus {
+  border: 8px solid rgba(255, 200, 0, 0.5);
+}
 
 .tile-sons h3 {
   color: transparent;
-  font-size: 3rem;
+  font-size: 2.5rem;
   overflow: hidden;
 }
 .tile-sons a:hover h3 {
@@ -1100,21 +1115,21 @@ filter: gray; */
   left: 0;
   right: 0;
   margin: 0 auto;
-  transition: all 0.3s ease-in-out;
+  transition: all .3s;
   background-image: url('../_media/images/ui/play.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 48px;
   border-radius: 50%;
-  background-color: rgba(255, 71, 0, 0.85);
+  background-color: rgb(255, 71, 0);
 }
-.tile-sons a:hover:after {
+.tile-sons a:hover:after, .tile-sons a:focus:after {
   background-image: none;
   top: 0;
   height: 100%;
   width: 100%;
   border-radius: 0;
-  background-color: rgba(255, 71, 0, 0.7);
+  background-color: rgba(255, 200, 0, 0.5);
 }
 
 .img-vestibular { background-image: url('../_media/images/sons/vestibular.jpg'); }
@@ -1305,7 +1320,6 @@ filter: gray; */
   z-index: 7;
 }
 .people:hover figure, .people:focus figure {
-  border: 8px solid rgb(238, 46, 46);
   box-shadow: 10px 10px 20px rgba(0,0,0,0.15);
 }
 .owl-item:hover, .owl-item:focus {
@@ -1353,7 +1367,6 @@ filter: gray; */
   height: 220px;
   z-index: 0;
   border-radius: 50%;
-  border: 8px solid rgb(238, 46, 161);
   transition: .3s all;
   background-size: cover;
   background-repeat: no-repeat;

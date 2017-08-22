@@ -15,6 +15,8 @@ include '../_includes/page_top.php'
     .owl-carousel .owl-nav { position: relative; margin: 0 auto; }
     .owl-carousel .owl-nav div { background-color: rgb(238, 46, 161); }
     .owl-carousel .owl-nav div:hover, .owl-carousel .owl-nav div:focus { transform: scale(1.25); background-color: red; box-shadow: 5px 5px 10px rgba(0,0,0,0.1); }
+    .people figure { border: 8px solid rgb(238, 46, 161); }
+    .people:hover figure, .people:focus figure { border-color: rgb(238, 46, 46); }
 </style>
 
 <main class="img-page img-videos">

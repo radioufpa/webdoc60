@@ -3,7 +3,7 @@
 $page_title = "Eu na UFPA";
 $page_description = "xxx";
 $page_keywords = "xxx";
-$page_color= "linear-gradient(45deg,rgb(144, 22, 255) 0,rgb(185, 92, 247) 75%)";
+$page_color= "rgb(144, 22, 255)";
 
 include '../_includes/page_top.php'
 
@@ -13,8 +13,10 @@ include '../_includes/page_top.php'
 <style type="text/css">
     .owl-stage { padding: 25px; }
     .owl-carousel .owl-nav { position: relative; margin: 0 auto; }
-    .owl-carousel .owl-nav div { background-color: rgb(238, 46, 161); }
-    .owl-carousel .owl-nav div:hover, .owl-carousel .owl-nav div:focus { transform: scale(1.25); background-color: rgb(144, 22, 255); box-shadow: 5px 5px 10px rgba(0,0,0,0.1); }
+    .owl-carousel .owl-nav div { background-color: rgb(144, 22, 255); }
+    .owl-carousel .owl-nav div:hover, .owl-carousel .owl-nav div:focus { transform: scale(1.25); background-color: rgb(238, 46, 161); box-shadow: 5px 5px 10px rgba(0,0,0,0.1); }
+    .people figure { border: 8px solid rgb(144, 22, 255); }
+    .people:hover figure, .people:focus figure { border: 8px solid rgb(238, 46, 161); }
 </style>
 
 <main class="img-page img-galeria">

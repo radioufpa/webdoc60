@@ -40,7 +40,7 @@ include '../_includes/page_top.php'
             <li>
 
                 <figure class="left-photo">
-                    <a data-fancybox="linha-do-tempo" data-caption="Anos 50 - Cerimônia de instalação da Universidade Federal do Pará, em 1959." href="../_media/images/memorias/anos-50-ufpa-cerimonia.jpg"><img src="../_media/images/memorias/anos-50-ufpa-cerimonia.jpg"></a>
+                    <a data-fancybox="linha-do-tempo" data-caption="Anos 50 - Cerimônia de instalação da Universidade Federal do Pará, em 1959. Foto: Acervo do Museu da UFPA. #PraCegoVer Fotografia em preto e branco do pronunciamento do então presidente Juscelino Kubitschek. Ele está no centro com a cabeça levemente virada para a direita, a boca aberta, os dois braços erguidos na altura do tronco e as mãos fechadas em um gesto de afirmação. Na sua direita, o primeiro reitor da instituição, Mário Braga Henriques. À esquerda, o então governador do Pará, Magalhães Barata." href="../_media/images/memorias/anos-50-ufpa-cerimonia.jpg"><img src="../_media/images/memorias/anos-50-ufpa-cerimonia.jpg"></a>
                 </figure>
 
               <div>
@@ -58,7 +58,7 @@ include '../_includes/page_top.php'
             <li>
 
               <figure class="right-photo">
-                   <a data-fancybox="linha-do-tempo" data-caption="Anos 60 - Inauguração dos pavilhões de aula do Setor Básico, em 1968." href="../_media/images/memorias/anos-60-ufpa-inauguracao-pavilhao-basico.jpg"><img src="../_media/images/memorias/anos-60-ufpa-inauguracao-pavilhao-basico.jpg"></a>
+                   <a data-fancybox="linha-do-tempo" data-caption="Anos 60 - Inauguração dos pavilhões de aula do Setor Básico, em 1968. Foto: Acervo Museu da UFPA. #PraCegoVer Fotografia em preto e branco da inauguração do pavilhão de aulas do setor básico. É possível ver o chão de terra, o pavilhão com salas de aula e o céu cheio de nuvens. Há muitas pessoas circulando no corredor da parte frontal das portas das salas de aulas." href="../_media/images/memorias/anos-60-ufpa-inauguracao-pavilhao-basico.jpg"><img src="../_media/images/memorias/anos-60-ufpa-inauguracao-pavilhao-basico.jpg"></a>
                 </figure>
 
               <div>
@@ -74,7 +74,7 @@ include '../_includes/page_top.php'
             <li>
                 
                 <figure class="left-photo">
-                   <a data-fancybox="linha-do-tempo" data-caption="Anos 70 - Inauguração do Núcleo de Ciências Geofísicas e Geológicas, em 1978." href="../_media/images/memorias/anos-70-ufpa-inauguracao-geofisica-geologia.jpg"><img src="../_media/images/memorias/anos-70-ufpa-inauguracao-geofisica-geologia.jpg"></a>
+                   <a data-fancybox="linha-do-tempo" data-caption="Anos 70 - Inauguração do Núcleo de Ciências Geofísicas e Geológicas, em 1978. Foto: Acervo Museu da UFPA. #PraCegoVer Fotografia em preto e branco de cinco homens vestidos de terno que estão caminhando em um dos corredores do Núcleo de Ciências Geofísicas e Geológicas da Universidade Federal do Pará. Ao centro da foto, o então reitor da UFPA Clóvis da Gama Malcher." href="../_media/images/memorias/anos-70-ufpa-inauguracao-geofisica-geologia.jpg"><img src="../_media/images/memorias/anos-70-ufpa-inauguracao-geofisica-geologia.jpg"></a>
                 </figure>
 
               <div>
@@ -90,7 +90,7 @@ include '../_includes/page_top.php'
             <li>
                 
                 <figure class="right-photo">
-                   <a data-fancybox="linha-do-tempo" data-caption="Anos 80 - Campus Universitário de Soure, criado em 1987." href="../_media/images/memorias/anos-80-ufpa-campus-soure.jpg"><img src="../_media/images/memorias/anos-80-ufpa-campus-soure.jpg"></a>
+                   <a data-fancybox="linha-do-tempo" data-caption="Anos 80 - Campus Universitário de Soure, criado em 1987. Foto: Acervo do Museu da UFPA. #PraCegoVer Fotografia em preto e branco da entrada do campus universitário de Soure na década de 80. É dia. Existem dois prédios, chão de terra, algumas palmeiras e uma cerca simples de madeira delimitando a área. À direita uma placa onde se lê: “Universidade Federal do Pará. Campus Universitário do Marajó. Núcleo de Soure”" href="../_media/images/memorias/anos-80-ufpa-campus-soure.jpg"><img src="../_media/images/memorias/anos-80-ufpa-campus-soure.jpg"></a>
                 </figure>
 
               <div>
@@ -346,7 +346,7 @@ include '../_includes/page_top.php'
                 <li class="horinzontal-featured">
                 <a href="https://www.youtube.com/watch?v=0tVJjal-RJs" data-fancybox="entrevista" data-caption="Entrevista - Violeta Refkalefsky Loureiro, Professora Emérita da UFPA"><div>
                   <img src="../_media/images/pessoas/ufpa-professor-emerito-violeta-loureiro.jpg">
-                  <h4>Violeta Loureiro</h4>
+                  <h4>Violeta R. Loureiro</h4>
                   <p>2015</p>
                 </div></a>
                 </li>

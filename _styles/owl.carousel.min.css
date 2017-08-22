@@ -19,11 +19,5 @@
   color: transparent;
   transition: .3s all;
 }
-.owl-carousel .owl-prev {
-  right: 0;
-  background-image: url('../_media/images/ui/prev.svg');
-}
-.owl-carousel .owl-next {
-  left: 0;
-  background-image: url('../_media/images/ui/next.svg');
-}
+.owl-carousel .owl-prev { right: 0; background-image: url('../_media/images/ui/prev.svg'); }
+.owl-carousel .owl-next { left: 0; background-image: url('../_media/images/ui/next.svg'); }

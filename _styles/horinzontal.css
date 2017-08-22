@@ -49,12 +49,12 @@ h4.blue-text {
 
 .owl-carousel .owl-nav {
   position: absolute;
-  top: 259px;
+  top: 267px;
 }
 .owl-carousel .owl-nav div {
   background-color: #20c8d0;
   display: block !important;
-  margin: 10px 0 !important;
+  margin: 5px 0 !important;
 }
 
 .horinzontal ol {
